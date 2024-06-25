@@ -25,7 +25,7 @@
     <!-- Extras -->
     <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="gh" revision="lineage-21" />
 
-    <project path="device/qcom/sepolicy_vndr" name="LineageOS/android_device_qcom_sepolicy_vndr" remote="gh" revision="lineage-21.0-caf-sm8450" />
+    <!-- <project path="device/qcom/sepolicy_vndr" name="LineageOS/android_device_qcom_sepolicy_vndr" remote="gh" revision="lineage-21.0-caf-sm8450" /> -->
     
     <!--<project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="cm-14.1" /> -->
 </manifest>
