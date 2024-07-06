@@ -29,6 +29,3 @@
     
     <!--<project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="cm-14.1" /> -->
 </manifest>
-
-
-device/qcom/sepolicy_vndr/
