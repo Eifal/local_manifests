@@ -23,7 +23,7 @@
     <project path="vendor/xiaomi/camera" name="johnmart19/vendor_xiaomi_camera" remote="gitlab" revision="aosp-14" />
 
     <!-- Extras -->
-    <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="gh" revision="lineage-21" />
+    <project path="hardware/xiaomi" name="StatiXOS/android_vendor_hardware_xiaomi" remote="gh" revision="udc" />
 
     <!-- <project path="device/qcom/sepolicy_vndr" name="LineageOS/android_device_qcom_sepolicy_vndr" remote="gh" revision="lineage-21.0-caf-sm8450" /> -->
     
