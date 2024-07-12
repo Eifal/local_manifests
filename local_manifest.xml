@@ -9,7 +9,7 @@
             clone-depth="1" />
     
     <!-- Tree -->
-    <project path="device/xiaomi/alioth" name="Hnime-P/device_xiaomi_alioth" remote="gh" revision="everest" />
+    <project path="device/xiaomi/alioth" name="Hnime-P/device_xiaomi_alioth_qpr3" remote="gh" revision="everest" />
     <project path="device/xiaomi/sm8250-common" name="PocoF3Releases/device_xiaomi_sm8250-common" remote="gh" revision="aosp-14" />
 
     <!-- Kernel -->
