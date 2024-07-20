@@ -16,8 +16,8 @@
     <project path="kernel/xiaomi/sm8250" name="raystef66/InfiniR_kernel_alioth" remote="gh" revision="14.0-alioth" />
     
     <!-- Vendor -->
-    <project path="vendor/xiaomi/alioth" name="Sanjivns/vendor_xiaomi_alioth" remote="gh" revision="aosp-14" />
-    <project path="vendor/xiaomi/sm8250-common" name="Sanjivns/vendor_xiaomi_sm8250-common" remote="gh" revision="aosp-14" />
+    <project path="vendor/xiaomi/alioth" name="TheMuppets/proprietary_vendor_xiaomi_alioth" remote="gh" revision="lineage-21" />
+    <project path="vendor/xiaomi/sm8250-common" name="TheMuppets/proprietary_vendor_xiaomi_sm8250-common" remote="gh" revision="lineage-21" />
     
     <!-- GitLab Project -->
     <project path="vendor/xiaomi/camera" name="johnmart19/vendor_xiaomi_camera" remote="gl" revision="aosp-14" />
