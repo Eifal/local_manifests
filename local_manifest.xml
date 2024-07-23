@@ -9,7 +9,7 @@
             clone-depth="1" />
     
     <!-- Tree -->
-    <project path="device/xiaomi/alioth" name="Eifal/android_device_xiaomi_alioth" remote="gh" revision="lineage-21-alpha" />
+    <project path="device/xiaomi/alioth" name="Eifal/android_device_xiaomi_alioth" remote="gh" revision="lineage-21-matrixx" />
     <project path="device/xiaomi/sm8250-common" name="Eifal/android_device_xiaomi_sm8250-common" remote="gh" revision="lineage-21-alpha" />
 
     <!-- Kernel -->
