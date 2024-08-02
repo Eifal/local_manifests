@@ -14,7 +14,7 @@
 
     <!-- Kernel -->
     <project path="kernel/xiaomi/sm8250" name="EmanuelCN/kernel_xiaomi_sm8250"
-    remote="staging" revision="main" />
+    remote="gh" revision="staging" />
 
     <!-- Vendor -->
     <project path="vendor/xiaomi/alioth" name="TheMuppets/proprietary_vendor_xiaomi_alioth" remote="gh" revision="lineage-21" />
