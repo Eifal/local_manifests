@@ -23,6 +23,8 @@
     <!-- Xiaomi SM8250 (kernel) -->
     <project path="kernel/xiaomi/sm8250" name="eprjkt/kernel_xiaomi_sm8250" revision="staging" remote="gheifal" />
 
+    <project path="kernel/xiaomi/sm8250/KernelSU" name="EmanuelCN/KernelSU" revision="main" remote="gheifal" />
+
     <!-- Prebuilt Clang (prebuilts) -->
     <project path="prebuilts/clang/host/linux-x86/clang-r536225" name="crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-r536225" revision="14.0" remote="gleifal" />
 
